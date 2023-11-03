@@ -1,7 +1,6 @@
 pandas 
 streamlit
 requests
-io
 json
 altair
 
